@@ -1,12 +1,12 @@
 # discord-weather
 RPC changer 
 
-//Info 
-Api Used: https://www.weatherbit.io
-Api Documentation: https://www.weatherbit.io/api/weather-current
-Requests per day for free: 500
-Code: Fakelatency 
-Language: Javascript
+//Info:
+Api Used: https://www.weatherbit.io,
+Api Documentation: https://www.weatherbit.io/api/weather-current,
+Requests per day for free: 500,
+Code: Fakelatency,
+Language: Javascript,
 
 
 //Setting up 
@@ -59,6 +59,7 @@ zh-tw - Chinese (Traditional)
 -You'll recive an error.
 -Instal modules missing by writing simply npm i "module name".
 
-If u have installed all modules your rpc should change. 
+If u have installed all modules your rpc should change after typing node discord.
 
 --Fakelatency 
+<3
